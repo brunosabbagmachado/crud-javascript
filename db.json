@@ -4,6 +4,11 @@
       "nome": "felipe",
       "email": "felipe@alura.com",
       "id": 1
+    },
+    {
+      "nome": "Tenis",
+      "email": "paulo.h.sabbag@outlook.com",
+      "id": 2
     }
   ]
 }
